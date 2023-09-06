@@ -17,7 +17,7 @@ in particular [holomekc/wiremock](https://github.com/holomekc/wiremock) with emb
 ## Install WireMock
 
 ```bash
-helm upgrade --install <release_name> ./chart/<chart_name>
+helm upgrade --install <release_name> ./charts/<chart_name>
 ```
 
 Setup port forwarding
